@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/AYehia0/soundcloud-dl/pkg/soundcloud"
+	"github.com/ytret/soundcloud-dl/pkg/soundcloud"
 	"github.com/grafov/m3u8"
 )
 

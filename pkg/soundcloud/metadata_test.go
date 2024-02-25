@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/AYehia0/soundcloud-dl/pkg/soundcloud"
+	"github.com/ytret/soundcloud-dl/pkg/soundcloud"
 	"github.com/bogem/id3v2"
 )
 

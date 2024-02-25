@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/AYehia0/soundcloud-dl/pkg/soundcloud"
-	"github.com/AYehia0/soundcloud-dl/pkg/theme"
+	"github.com/ytret/soundcloud-dl/pkg/soundcloud"
+	"github.com/ytret/soundcloud-dl/pkg/theme"
 )
 
 var (
