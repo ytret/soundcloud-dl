@@ -46,7 +46,7 @@ Flags:
   -b, --best                   Download with the best available quality.
   -p, --download-path string   The download path where tracks are stored. (default "/home/none/Things/github/soundcloud-dl")
   -h, --help                   help for sc
-  -s, --search-and-download    Search for tracks by title and prompt one for download 
+  -s, --search-and-download    Search for tracks by title and prompt one for download
   -v, --version                version for sc
 ```
 
