@@ -10,6 +10,8 @@ SoundCloud-dl
 
 </h1>
 
+Fork of https://github.com/AYehia0/soundcloud-dl.
+
 A simple CLI app written in GO used to download sound-tracks from soundcloud with a nice UI and some cool features like downloading with multiple formats/qualities and search.
 
 # Overview
